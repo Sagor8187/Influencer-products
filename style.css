@@ -112,7 +112,12 @@ li{
     padding: 50px 0px;
     align-items: center;
     gap: 133px;
-    
-   
-    
+       
+}
+.logo-section{
+    margin-top: 69px;
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 2px 4px 100px rgba(0,0,0,0.2) ;
+    padding: 10px;
 }
